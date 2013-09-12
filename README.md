@@ -1,3 +1,3 @@
-# chris-noel-chan.github.io
+# Chris' Amazing Portfolio
 
 My amazing portfolio website!
